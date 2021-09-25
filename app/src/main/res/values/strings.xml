@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Guia4</string>
+    <string name="strActivityDatos">Desarrollador</string>
+    <string name="strActivityAddEmployee">Agregar empleado</string>
+    <string name="strActivityLstEmployees">Listado de empleados</string>
+    <string name="strMostrarDato1">Dessarrollado por:</string>
+    <string name="strMostrarDato2">NOMBRE:\nJose Francisco Hernandez Reyes</string>
+    <string name="strMostrarDato3">CODIGO:\nHR18-I04-001</string>
+    <string name="htnombre">nombre</string>
+    <string name="htapellido">apellido</string>
+    <string name="btnregistrar">Registrar Empleado</string>
+    <string name="btnAgregar">Agregar Empleado</string>
+    <string name="btnLista">Mostrar Lista</string>
+    <string name="btnDatos">Mostrar Datos</string>
+
+</resources>
